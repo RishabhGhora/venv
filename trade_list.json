@@ -1,0 +1,9 @@
+[
+	{
+		"sequence_number": 1,
+		"product_symbol": "ESO",
+		"quantity": 100,
+		"price": 125.5,
+		"buy_sell": "buy"
+	}
+]
